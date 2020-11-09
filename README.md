@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PeterlitsZo/PeterlitsZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My State!
+-----------------------
+<p align="center">
+  <a href="https://github.com/PeterlitsZo">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PeterlitsZo&include_all_commits" />
+  </a>
+  <a href="https://github.com/PeterlitsZo">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterlitsZo&layout=compact" />
+  </a>
+</p>
