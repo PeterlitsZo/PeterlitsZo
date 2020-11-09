@@ -17,7 +17,7 @@ My State!
 -----------------------
 <p align="center">
   <a href="https://github.com/PeterlitsZo">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PeterlitsZo&include_all_commits" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PeterlitsZo&include_all_commits=true&show_icons=true" />
   </a>
   <a href="https://github.com/PeterlitsZo">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterlitsZo&layout=compact" />
