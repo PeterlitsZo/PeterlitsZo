@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Me!
------------------------
-My name is Peterlits Zo from Soochow University, China. I like write Rust and C basicly. Now I am going to build a file-storgre service like git with Rust.
+# Me!
+
+Hello everyone. I am Peterlits Zo. Working in DiDi now. From Soochow University.
+
+Now I try work on building Jisp (a mini Lisp-like language embeded in Rust) - I have few time to work on it, so it is just started now.
+
+Maybe you want to know WasteLand - a simple storage write in Rust.
