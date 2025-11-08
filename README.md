@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # Me!
 
-Hello everyone. I am Peterlits Zo. Working in DiDi now. From Soochow University.
+Hello everyone. I am Peterlits Zo. Woking in ??? now. From Soochow University.
 
-Now I try work on building Jisp (a mini Lisp-like language embeded in Rust) - I have few time to work on it, so it is just started now.
-
-Maybe you want to know WasteLand - a simple storage write in Rust.
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/PeterlitsZo"/>
+</a>
